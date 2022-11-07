@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763078393224",
+    "project_id": "wtfact-69ccc",
+    "storage_bucket": "wtfact-69ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763078393224:android:b18860a2215fafab198e3d",
+        "android_client_info": {
+          "package_name": "com.wtfact.wtfact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763078393224-ncobgpbbg0s2ruknm5oeajems6rq5s30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wtfact.wtfact",
+            "certificate_hash": "03c673c79bf4d2fc4da0f856eaa45f9eef529f84"
+          }
+        },
+        {
+          "client_id": "763078393224-rgj65i9hn137vihl9n6k49t6878a0g7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1KmB0R4eUWaVglCYwYBC9SaELnC5evoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763078393224-rgj65i9hn137vihl9n6k49t6878a0g7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
